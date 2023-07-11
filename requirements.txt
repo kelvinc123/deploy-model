@@ -8,3 +8,5 @@ jupyter
 jupyterlab
 matplotlib
 seaborn
+Flask
+Pillow

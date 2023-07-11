@@ -38,3 +38,6 @@ model.fit(x_train, y_train, epochs=5)
 
 # This code is to evaluate the accuracy
 model.evaluate(x_test,  y_test, verbose=2)
+
+# Save model as h5 file
+model.save('model1.h5')
