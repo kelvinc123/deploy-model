@@ -1,1 +1,1 @@
-ssh -i deploy-model.pem ec2-user@ec2-54-67-8-147.us-west-1.compute.amazonaws.com
+ssh -i deploy-model.pem ec2-user@54.193.42.50
