@@ -16,5 +16,5 @@ if __name__ == "__main__":
 
     
     data = json.dumps({"image": img})
-    response = requests.post("http://127.0.0.1:5000/predict", data)
+    response = requests.post("http://ec2-54-193-52-178.us-west-1.compute.amazonaws.com:5000/predict", data)
     print(response.text)
