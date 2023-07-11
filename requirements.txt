@@ -3,3 +3,8 @@ pandas
 numpy
 scipy
 opencv-python
+ipykernel
+jupyter
+jupyterlab
+matplotlib
+seaborn
